@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/QuizProgram.iml" filepath="$PROJECT_DIR$/QuizProgram.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/QuizUI.iml" filepath="$PROJECT_DIR$/QuizUI.iml" />
+>>>>>>> e4c285c41944954a3c6d825f861d34526768fea0
     </modules>
   </component>
 </project>
